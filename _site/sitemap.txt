@@ -1,11 +1,11 @@
 
-http://username.github.com/archive.html
-http://username.github.com/atom.xml
-http://username.github.com/sitemap.txt
-http://username.github.com/pages.html
-http://username.github.com/categories.html
-http://username.github.com/tags.html
-http://username.github.com/index.html
+http://ugoa.github.com/archive.html
+http://ugoa.github.com/atom.xml
+http://ugoa.github.com/sitemap.txt
+http://ugoa.github.com/pages.html
+http://ugoa.github.com/categories.html
+http://ugoa.github.com/tags.html
+http://ugoa.github.com/index.html
 
-http://username.github.com/2012/10/13/my-first-blog-with-jekyll
-http://username.github.com/lessons/2011/12/29/jekyll-introduction
+http://ugoa.github.com/2012/10/13/my-first-blog-with-jekyll
+http://ugoa.github.com/lessons/2011/12/29/jekyll-introduction
