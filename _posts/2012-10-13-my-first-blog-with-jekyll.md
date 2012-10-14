@@ -1,10 +1,22 @@
 ---
 layout: post
-title: "My first blog with jekyll"
-description: ""
+title: "开张大吉喽"
+description: "在Github上的第一篇博客"
 category: 
 tags: [beginning, jekyll]
 ---
 {% include JB/setup %}
 
-Some content for test.
+花了整整一个周末，终于把这个基于Jekyll-Bootstrap框架的博客搭起
+来了，主要是没有经验, 所以折腾了好久。不过期间也学到不少东西，也算是有
+失有得吧。
+
+下定决心把这个博客搭起来的原因，主要是由于看了刘未鹏的一篇文章，其中列
+举了写博客的种种好处。其实这些道理我都明白，但由于怕麻烦，迟迟没有动手。
+刚好这个周末有空，就一鼓作气把它搞定了，回头审视一遍，其实也并不太难，
+只是有点繁琐而已，好歹把它完成了，自己也大大的松了一口气。现阶段就到这
+里，至于美观度，以后再慢慢优化它吧。
+
+刚发现了个小问题，我想把评论部分的一些小链接去掉，找了半天没找到配置的地
+方，有点郁闷，在[v2ex](http://www.v2ex.com/t/49949#reply0)发贴
+问了，希望好心人快点出现吧，阿门！
