@@ -18,6 +18,7 @@ tags: [ruby, metaprogramming, mimic method, class macro]
 
 这两个名词来自经典的《Ruby元编程》一书，是Ruby中两种常见的编程“魔法”。比如书中有下面的代码：
 
+{% highlight ruby linenos %}
     class Book
       def title # ...
       end
@@ -42,6 +43,7 @@ tags: [ruby, metaprogramming, mimic method, class macro]
     b.LEND_TO_USER("Bill")
     # >> Warning: LEND_TO_USER() is deprecated. Use lend_to().
     # >> Lending to Bill
+{% endhighlight %}
 
 ### 拟态方法
 这里有几个地方用到了拟态方法，比如这一行：
