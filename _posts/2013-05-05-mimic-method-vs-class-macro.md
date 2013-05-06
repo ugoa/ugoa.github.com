@@ -18,7 +18,6 @@ tags: [ruby, metaprogramming, mimic method, class macro]
 
 这两个名词来自经典的《Ruby元编程》一书，是Ruby中两种常见的编程“魔法”。比如书中有下面的代码：
 
-{% highlight ruby linenos %}
     class Book
       def title # ...
       end
@@ -43,7 +42,6 @@ tags: [ruby, metaprogramming, mimic method, class macro]
     b.LEND_TO_USER("Bill")
     # >> Warning: LEND_TO_USER() is deprecated. Use lend_to().
     # >> Lending to Bill
-{% endhighlight %}
 
 ### 拟态方法
 这里有几个地方用到了拟态方法，比如这一行：
@@ -71,6 +69,3 @@ tags: [ruby, metaprogramming, mimic method, class macro]
 并且，上面这行代码中的**deprecate**方法刚好有符合拟态方法的特征，即“看起来”不像是一个方法调用（因为省略掉了括号）。所以它既是拟态方法，又是类宏。
 
 总结起来说，拟态方法其实是在描述一个方法调用的外在形式（加括号和不加括号），类宏就是在描述一个方法调用的目的（用来扩展类）和使用场景（必须在类定义中使用）。
-
-
-
