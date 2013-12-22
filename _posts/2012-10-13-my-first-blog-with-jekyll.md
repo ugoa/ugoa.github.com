@@ -4,6 +4,7 @@ title: "开张大吉喽"
 description: "在Github上的第一篇博客"
 category: 
 tags: [beginning, jekyll]
+
 ---
 {% include JB/setup %}
 
@@ -16,7 +17,3 @@ tags: [beginning, jekyll]
 刚好这个周末有空，就一鼓作气把它搞定了，回头审视一遍，其实也并不太难，
 只是有点繁琐而已，好歹把它完成了，自己也大大的松了一口气。现阶段就到这
 里，至于美观度，以后再慢慢优化它吧。
-
-刚发现了个小问题，我想把评论部分的一些小链接去掉，找了半天没找到配置的地
-方，有点郁闷，在[v2ex](http://www.v2ex.com/t/49949#reply0)发贴
-问了，希望好心人快点出现吧，阿门！

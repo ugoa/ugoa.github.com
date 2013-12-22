@@ -4,6 +4,7 @@ title: "拟态方法与类宏"
 description: ""
 category: 
 tags: [ruby, metaprogramming, mimic method, class macro]
+
 ---
 {% include JB/setup %}
 
