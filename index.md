@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 蛋几宁施，个必踢米!
-tagline: 是“但尽人事，各凭天命”的意思啦
+title: Home
+tagline:
 ---
 {% include JB/setup %}
 

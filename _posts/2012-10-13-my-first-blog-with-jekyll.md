@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开张大吉喽"
+title: "开张大吉"
 description: "在Github上的第一篇博客"
 category: 
 tags: [beginning, jekyll]
